@@ -7,6 +7,10 @@ items:
   description: ''
   displayName: Shozab-CasC-Folder
 - kind: folder
+  name: Shozab-CasC-Folder-2
+  description: ''
+  displayName: Shozab-CasC-Folder-2
+- kind: folder
   name: JobsFromPipelineTemplates
   description: ''
   displayName: JobsFromPipelineTemplates
