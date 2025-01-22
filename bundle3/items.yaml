@@ -7,6 +7,17 @@ items:
   description: ''
   displayName: Shozab-CasC-Folder
 - kind: folder
+  name: Soham-Folder
+  description: ''
+  displayName: Soham-Folder
+  properties:
+  - envVars: {}
+  - itemRestrictions:
+      allowedTypes:
+      - org.jenkinsci.plugins.workflow.job.WorkflowJob
+      - com.cloudbees.hudson.plugins.modeling.impl.jobTemplate.JobTemplate
+      filter: true
+- kind: folder
   name: Shozab-CasC-Folder-Restricted
   description: ''
   displayName: Shozab-CasC-Folder-Restricted
